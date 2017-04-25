@@ -8,13 +8,13 @@
 
 ## 預期完成功能
 
-~~1. 水平垂直置中~~
-2. Facebook, Google, GitHub 登入按鈕
-3. 密碼強度的Bar
-4. 註冊送出loading動畫
-5. 當打字時，input預設字移動到旁邊
-6. 與LogIn形成兩個Tab
-7. 畫面從中往外展開
+~~1. 水平垂直置中~~  
+2. Facebook, Google, GitHub 登入按鈕  
+3. 密碼強度的Bar  
+4. 註冊送出loading動畫  
+5. 當打字時，input預設字移動到旁邊  
+6. 與LogIn形成兩個Tab  
+7. 畫面從中往外展開  
 
 ## 筆記
 
