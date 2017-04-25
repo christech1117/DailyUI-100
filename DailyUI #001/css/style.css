@@ -1,0 +1,56 @@
+* {
+  font-family: Futura;
+  
+}
+body {
+  background: #EEE;
+}
+
+.container {
+  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -200px;
+  margin-top: -200px;
+  box-shadow: 0px 0px 30px grey;
+}
+
+.input-form {
+  margin-top: 10px;
+  width: 80%;
+  height: 30px;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 20px;
+  border-bottom:1px solid #757575;
+}
+
+.btn {
+  width: 80%;
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 10%;
+  font-size: 20px;
+  color: #1AB188;
+  border-radius:40px;
+  border-color: #1AB188;
+  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}
+.btn:hover {
+    background: #1AB188;
+    color: white;
+}
+.btn:focus {
+  outline: none;
+  
+}
+
+h1 {
+  text-align: center;
+}
